@@ -55,7 +55,7 @@ background: #AAAAAA;
 	padding-bottom: 100%;
 	grid-area: var(--area, auto);
 	border: none;
-	background: url(/images/chicken.png);
+	background: url(images/chicken.png);
 	background-size: 98%;
 }
 h2 {
